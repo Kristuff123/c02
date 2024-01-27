@@ -6,13 +6,13 @@
 /*   By: kristof <kristof@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/27 19:40:40 by kristof           #+#    #+#             */
-/*   Updated: 2024/01/27 19:40:51 by kristof          ###   ########.fr       */
+/*   Updated: 2024/01/27 22:55:18 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+/*
 #include <unistd.h>
 #include <stdio.h>
-
+*/
 int	check_function(int i)
 {
 	if ((i >= '0') && (i <= '9'))
@@ -37,9 +37,9 @@ int	ft_str_is_numeric(char *str)
 	}
 	return (1);
 }
-
+/*
 int main()
 {
 	printf("%d\n", ft_str_is_numeric("122133313123"));
 	return (0);
-}
+}*/

@@ -6,11 +6,11 @@
 /*   By: kristof <kristof@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/27 20:40:50 by kristof           #+#    #+#             */
-/*   Updated: 2024/01/27 21:00:13 by kristof          ###   ########.fr       */
+/*   Updated: 2024/01/27 22:58:16 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+//#include <stdio.h>
 
 char	*ft_strlowcase(char *str)
 {
@@ -27,7 +27,7 @@ char	*ft_strlowcase(char *str)
 	}
 	return (str);
 }
-
+/*
 int	main(void)
 {
 	char	testString[] = "heLLo WoRlD";
@@ -36,4 +36,4 @@ int	main(void)
 	ft_strlowcase(testString);
 	printf("modified string is %s\n", testString);
 	return (0);
-}
+}*/

@@ -6,12 +6,13 @@
 /*   By: kristof <kristof@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/27 19:47:28 by kristof           #+#    #+#             */
-/*   Updated: 2024/01/27 20:03:20 by kristof          ###   ########.fr       */
+/*   Updated: 2024/01/27 22:56:41 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+/*
 #include <stdio.h>
 #include <unistd.h>
-
+*/
 int	check_function(char c)
 {
 	if ((c >= 'A') && (c <= 'Z'))
@@ -36,7 +37,7 @@ int	ft_str_is_lowercase(char *str)
 	}
 	return (1);
 }
-
+/*
 int	main()
 {
 	printf("%d\n", ft_str_is_lowercase("hagsfhahfagshasj"));
@@ -44,4 +45,4 @@ int	main()
 	printf("%d\n", ft_str_is_lowercase(""));
 	printf("%d\n", ft_str_is_lowercase("1214121"));
 	return (0);
-}
+}*/

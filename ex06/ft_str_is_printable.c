@@ -6,12 +6,13 @@
 /*   By: kristof <kristof@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/27 20:11:44 by kristof           #+#    #+#             */
-/*   Updated: 2024/01/27 20:21:21 by kristof          ###   ########.fr       */
+/*   Updated: 2024/01/27 22:57:17 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+/*
 #include <stdio.h>
 #include <unistd.h>
-
+*/
 int	check_function(int c)
 {
 	if ((c > 32) && (c <= 126))
@@ -36,10 +37,9 @@ int	ft_str_is_printable(char *str)
 	}
 	return (1);
 }
-
+/*
 int	main()
 {
 	printf("%d\n", ft_str_is_printable("shdfhasöfhahfajfaj"));
 	return (0);
-}
-
+}*/

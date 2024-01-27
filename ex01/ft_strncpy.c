@@ -6,11 +6,10 @@
 /*   By: kristof <kristof@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/27 14:15:58 by kristof           #+#    #+#             */
-/*   Updated: 2024/01/27 14:39:30 by kristof          ###   ########.fr       */
+/*   Updated: 2024/01/27 22:52:01 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
 //#include <stdio.h>
 
 char	*ft_strncpy(char *dest, char *src, unsigned int n)

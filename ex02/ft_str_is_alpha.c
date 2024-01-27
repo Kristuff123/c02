@@ -6,11 +6,11 @@
 /*   By: kristof <kristof@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/27 14:41:31 by kristof           #+#    #+#             */
-/*   Updated: 2024/01/27 15:20:18 by kristof          ###   ########.fr       */
+/*   Updated: 2024/01/27 22:53:07 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 //#include <stdio.h>
-#include <unistd.h>
+//#include <unistd.h>
 
 int	ft_str_is_alpha(char *str);
 

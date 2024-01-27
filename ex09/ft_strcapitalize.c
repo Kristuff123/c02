@@ -6,11 +6,11 @@
 /*   By: kristof <kristof@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/27 21:09:30 by kristof           #+#    #+#             */
-/*   Updated: 2024/01/27 21:13:56 by kristof          ###   ########.fr       */
+/*   Updated: 2024/01/27 22:58:43 by kristof          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+//#include <stdio.h>
 
 char	*ft_strcapitalize(char *str)
 {
@@ -35,7 +35,7 @@ char	*ft_strcapitalize(char *str)
 	}
 	return (str);
 }
-
+/*
 int main(void)
 {
 	char testString[] = "dzien dobry krzysztofie jak sie masz";
@@ -44,4 +44,4 @@ int main(void)
 	ft_strcapitalize(testString);
 	printf("this string has been modded: %s\n", testString);
 	return (0);
-}
+}*/
